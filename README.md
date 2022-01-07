@@ -19,7 +19,7 @@
 
 # Description
 
-This repository contains the data collected by the Italian "EU Digital Covid Certificate" system.
+This repository contains the data collected by the Italian "EU Digital Covid Certificate" system and some visualization made by Aidin Attar.
 
 In particular, the following data are uploaded every day at 2 am (UTC):
 - daily trend of issued and acquired EU DCC divided by categories.
@@ -47,6 +47,9 @@ it-dgc-opendata/
 │   ├── dgc-acquired.json
 │   ├── dgc-acquired-latest.csv
 │   ├── dgc-acquired-latest.json
+|
+├── grafici/
+│   ├── grafici.ipynb
 ```
 
 # Data format
